@@ -1,6 +1,6 @@
 # Student_Library_Management_System
 
-The Student library management system is a Spring-boot Application made to handle the tipical probelems on real life situations in a School or college Libraries.
+The Student library management system is a Backent  Spring-boot Application made to handle the tipical probelems on real life situations in a School or college Libraries.
 
 TechStacks used : JAVA, Spring Boot , JPA (ORM)Hibernate ,MYSQL ,Maven,postman.
 
